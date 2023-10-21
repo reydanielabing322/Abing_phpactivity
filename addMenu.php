@@ -13,7 +13,7 @@ try {
     
     $stmt->execute();
 
-    
+     
     session_start();
     $_SESSION['success_message'] = "Data has been successfully inserted.";
 
