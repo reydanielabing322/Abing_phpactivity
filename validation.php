@@ -36,5 +36,7 @@
         delete_data($id);
         header('Location: index.php');
         exit;
+  
+  
     }  
 ?>
